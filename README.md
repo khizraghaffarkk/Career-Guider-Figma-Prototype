@@ -17,5 +17,6 @@ Join us on this journey to empower individuals worldwide with the knowledge to s
 - Vector Icons
 - Free Icons
 - Unsplash
+- Canva
 
 **Explore it Live:** https://www.figma.com/proto/6CdD6t8vd260NVgXRWgb3G/Career-Guider-App?type=design&node-id=0-1425&t=qR8k2VaA8yS4Xst3-1&scaling=scale-down&page-id=0%3A1&mode=design
